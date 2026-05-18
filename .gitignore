@@ -1,0 +1,14 @@
+# Maven compiled output - regenerated every build, never commit this
+target/
+
+# Maven wrapper jar (binary file, not needed in repo)
+.mvn/wrapper/maven-wrapper.jar
+
+# VS Code settings (your local editor config, not the project's concern)
+.vscode/
+
+# macOS garbage files
+.DS_Store
+
+# Environment variables (if you ever add API keys, passwords - NEVER commit these)
+.env
