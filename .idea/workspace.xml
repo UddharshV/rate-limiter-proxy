@@ -5,16 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="144cc3ba-2e0e-48e4-8429-fd815d7b3ecf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ratelimiter/ProxyServer.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/proxy/ProxyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/proxy/ProxyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/upstream/UpstreamController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/upstream/UpstreamDataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/upstream/models/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/upstream/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/orders.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/users.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,7 +63,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/phase-0-setup",
+    "git-widget-placeholder": "feature/phase-1-reverse-proxy",
     "last_opened_file_path": "/Users/uddharshv/Documents/PROJECTS/rate-limiter-proxy",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }

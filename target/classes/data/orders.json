@@ -1,0 +1,17 @@
+[
+  {
+    "id": "order-1",
+    "description": "First test order",
+    "status": "CREATED"
+  },
+  {
+    "id": "order-2",
+    "description": "Second test order",
+    "status": "SHIPPED"
+  },
+  {
+    "id": "order-3",
+    "description": "Third test order",
+    "status": "DELIVERED"
+  }
+]
