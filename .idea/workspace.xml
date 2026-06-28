@@ -5,15 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="144cc3ba-2e0e-48e4-8429-fd815d7b3ecf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/proxy/ProxyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/proxy/ProxyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/upstream/UpstreamController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/upstream/UpstreamDataService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/upstream/models/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/upstream/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data/orders.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/uddharsh/ratelimiterproxy/proxy/ProxyServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/proxy/ProxyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/proxy/ProxyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/proxy/ProxyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/proxy/ProxyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/upstream/UpstreamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uddharsh/ratelimiterproxy/upstream/UpstreamController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/uddharsh/ratelimiterproxy/proxy/ProxyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/uddharsh/ratelimiterproxy/proxy/ProxyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/uddharsh/ratelimiterproxy/proxy/ProxyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/uddharsh/ratelimiterproxy/proxy/ProxyService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/uddharsh/ratelimiterproxy/upstream/UpstreamController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/uddharsh/ratelimiterproxy/upstream/UpstreamController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data/orders.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data/users.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

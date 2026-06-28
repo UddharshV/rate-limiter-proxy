@@ -2,12 +2,10 @@ package com.uddharsh.ratelimiterproxy.upstream;
 
 import com.uddharsh.ratelimiterproxy.upstream.models.Order;
 import com.uddharsh.ratelimiterproxy.upstream.models.User;
-import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @RestController //Handles HTTP requests
